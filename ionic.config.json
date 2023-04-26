@@ -1,0 +1,7 @@
+{
+  "name": "holaliseth",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
